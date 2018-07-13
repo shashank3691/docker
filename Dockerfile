@@ -5,4 +5,4 @@ LABEL Author = "shashank" \
       Environment = "IAT"
 ENV JAVA_VERSION = 1.8
 ENTRYPOINT ["ping"]
-CMD ["facebook.com"]
+CMD ["google.com"]
